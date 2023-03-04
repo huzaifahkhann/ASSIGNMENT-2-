@@ -1,0 +1,139 @@
+
+
+<style>
+.table,
+.td {
+    mso-table-lspace: 0pt !important;
+    mso-table-rspace: 0pt !important;
+}
+a {
+    text-decoration: none;
+}
+    </style>
+<style>
+	
+
+	    .primary{
+	background: #ea168e;
+}
+.bg_white{
+	background: #000000;
+}
+.email-section{
+	padding:2.5em;
+}
+.btn{
+	padding: 5px 15px;
+	display: inline-block;
+}
+.btn.btn-primary{
+	border-radius: 5px;
+	background: #4e4e4e;
+	color: #ffffff;
+}
+.btn.btn-white{
+	border-radius: 5px;
+	background: #ffffff;
+	color: #ffffff;
+}
+.btn.btn-white-outline{
+	border-radius: 5px;
+	background: transparent;
+	border: 1px solid #fff;
+	color: #fff;
+}
+
+h1,h2,h3,h4,h5,h6{
+	font-family: 'Poppins', sans-serif;
+	color: #ffffff;
+	margin-top: 0;
+	font-weight: 400;
+}
+body{
+	font-family: 'Poppins', sans-serif;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 1.8;
+	color: rgb(255, 255, 255);
+}
+
+a{
+	color: #ee009f;
+}
+
+table{
+}
+.logo h1{
+	margin: 0;
+	line-height: 1;
+}
+.logo h1 a{
+	color: #ececec;
+	font-size: 20px;
+	font-weight: 700;
+	text-transform: uppercase;
+	font-family: 'Poppins', sans-serif;
+	padding-top: 0;
+}
+.hero{
+	position: relative;
+	z-index: 0;
+}
+.hero .overlay{
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	content: '';
+	width: 100%;
+	background: #fdfdfd;
+	z-index: -1;
+	opacity: .7;
+	background: rgb(255, 255, 255);
+}
+
+.hero .text{
+	color: rgb(255, 255, 255);
+}
+.hero .text h2{
+	color: #ffffff;
+	font-size: 30px;
+	margin-bottom: 0;
+	font-weight: 500;
+}
+.hero .text h2 span{
+	font-weight: 600;
+	color: #ffffff;
+}
+.heading-section{
+}
+.heading-section h2{
+	color: #ffffff;
+	font-size: 28px;
+	margin-top: 0;
+	line-height: 1.4;
+	font-weight: 400;
+}
+.project-entry{
+	position: relative;
+}
+.text-project{
+	padding-bottom: 10px;
+	position: absolute;
+	bottom: 10px;
+	left: 0px;
+	right: 0;
+}
+.text-project h3{
+	margin-bottom: 0;
+	font-size: 16px;
+	font-weight: 600;
+}
+
+.table  {color: #5e5e5e;
+background-color: #535353;}
+.footer{
+	color: rgb(253, 253, 253);
+}
+
